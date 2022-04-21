@@ -1473,7 +1473,7 @@
   },
   {
     "names": ["RIGHT_ARROW", "RIGHT"],
-    "symbol": "⏵",
+    "symbol": "⮕",
     "description": "⮕ [Right Arrow]",
     "context": "Keyboard",
     "clarify": false,
@@ -1489,7 +1489,7 @@
   },
   {
     "names": ["LEFT_ARROW", "LEFT"],
-    "symbol": "⏴",
+    "symbol": "⬅",
     "description": "⬅ [Left Arrow]",
     "context": "Keyboard",
     "clarify": false,
@@ -1505,7 +1505,7 @@
   },
   {
     "names": ["DOWN_ARROW", "DOWN"],
-    "symbol": "⏷",
+    "symbol": "⬇",
     "description": "⬇ [Down Arrow]",
     "context": "Keyboard",
     "clarify": false,
@@ -1521,7 +1521,7 @@
   },
   {
     "names": ["UP_ARROW", "UP"],
-    "symbol": "⏶",
+    "symbol": "⬆",
     "description": "⬆ [Up Arrow]",
     "context": "Keyboard",
     "clarify": false,
