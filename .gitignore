@@ -79,6 +79,9 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# macOS
+.DS_Store
+
 dist
 qmk_firmware
 zmk-config
